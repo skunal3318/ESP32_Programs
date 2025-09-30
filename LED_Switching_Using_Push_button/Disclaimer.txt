@@ -1,0 +1,15 @@
+                                                                 DISCLAIMER
+
+# The code in the folder is for the nodemcu 1.0 , but tested and working on both microcontrollers.
+Wokwi Circuit --> ESP32
+Physical Circuit --> NodeMCU 1.0
+Sketch.ino --> NodeMCU 1.0
+
+--> If you want to use the ESP32 Board then change the pins to :
+int led1_pin = 0;
+int led2_pin = 2;
+int button_pin = 4;
+And then it will work perfectly on that too.
+
+
+Thanks...
